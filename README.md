@@ -18,14 +18,13 @@ E) Interfaces: Notifiable interface is implemented by User.
 # Calendar Application GUI Insights
 The Calendar Application GUI provides a user-friendly interface to manage and add different types of events such as appointments, meetings, and birthdays. Below are the detailed insights into the functionality and features of the GUI:
 
-![Main image](https://github.com/SuzyAdel/CalenderAPP/assets/128175020/7383af47-db6f-41a3-a72a-5efef90356cb)
+![CalenderApp GUI](https://github.com/SuzyAdel/CalenderAPP/assets/128175020/231609aa-f677-44d2-9a93-95693d43d1ab)
+
 
 # Key Features
 1. Year and Month Selection:
    
-![year dropdown](https://github.com/SuzyAdel/CalenderAPP/assets/128175020/8e69d2fa-a61d-484c-a500-6fcead7cc83f)
-
-![month dropdown](https://github.com/SuzyAdel/CalenderAPP/assets/128175020/aaf8c005-acee-43fc-a34a-9612f84ce3fd)
+![dd momth](https://github.com/SuzyAdel/CalenderAPP/assets/128175020/7f8936ba-6440-4b88-95ce-77388202061a)
 
 
 Dropdown Menu: Users can select the desired year and month using dropdown menus at the top of the calendar interface.
@@ -33,9 +32,7 @@ Navigation: This allows for easy navigation to view and manage events across dif
 
 2.Event Addition:
 
-
-![type dd](https://github.com/SuzyAdel/CalenderAPP/assets/128175020/b8ba5cdb-5a2a-43be-a54b-ae5a417de98b)
-
+![addev dd](https://github.com/SuzyAdel/CalenderAPP/assets/128175020/38cfdb22-acd9-463b-9880-611f14ec4c7f)
 
 Event Type Dropdown: Users can choose the type of event (Appointment, Meeting, Birthday) from a dropdown list.
 This selection determines the specific fields required for the event.
@@ -53,12 +50,14 @@ Add Button: After filling in the required details, users can click the "Add" but
 
 3. Event Visualization:
 
+![eeventsGUI](https://github.com/SuzyAdel/CalenderAPP/assets/128175020/64ea84bc-80d6-4b45-b170-091751755529)
+
 Color Coding: Each type of event is color-coded for easy differentiation on the calendar:
 Yellow: For Birthdays
 Green: For Appointments
 Blue: For Meetings
 Shading: The days on the calendar are shaded with the corresponding color when an event is added, providing a quick visual representation of scheduled events.
-// N@ES SORA 
+
 
 # Class Descriptions
 # 1. CalendarMain
