@@ -12,10 +12,11 @@ A comprehensive calendar application designed to help users manage various types
 - **Method Overriding**
 - **Polymorphism**
 
-The application allows users to create, share, and receive notifications for events, making it a robust tool for personal and collaborative scheduling.
+  The application allows users to create, share, and receive notifications for events, making it a robust tool for personal and collaborative scheduling.
 
 ## Key Concepts Demonstrated
 
+![UML](https://github.com/SuzyAdel/CalenderAPP/assets/128175020/04621673-eda3-474a-9b84-057a616d55bb)
 ### Inheritance
 - **Event** is an abstract class extended by **Meeting**, **Appointment**, and **Birthday**.
 
