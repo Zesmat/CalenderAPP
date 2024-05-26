@@ -15,7 +15,7 @@ A comprehensive calendar application designed to help users manage various types
 The application allows users to create, share, and receive notifications for events, making it a robust tool for personal and collaborative scheduling.
 
 ## Key Concepts Demonstrated
-
+![CalenderApp GUI](https://github.com/SuzyAdel/CalenderAPP/assets/128175020/8e3a57a4-ab6e-4b4f-9021-cea2557ac305)
 ### Inheritance
 - **Event** is an abstract class extended by **Meeting**, **Appointment**, and **Birthday**.
 
