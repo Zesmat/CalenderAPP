@@ -1,4 +1,4 @@
-# Calendar Application
+# Calendar Application 
 
 A comprehensive calendar application designed to help users manage various types of events, such as meetings, appointments, and birthdays. This project demonstrates key Object-Oriented Programming (OOP) concepts including:
 
