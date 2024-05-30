@@ -1,8 +1,6 @@
 package CalendarMain;
 
-
-class CalendarApp 
-{
+class CalendarApp {
     private User user;
 
     public CalendarApp(User user) {

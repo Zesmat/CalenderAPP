@@ -60,6 +60,11 @@ abstract class Event {
      * }
      */
 
+    @Override
+    public String toString() {
+        return title + " at " + time + " in " + location;
+    }
+
     public List<Reminder> getReminders() {
         return reminders;
     }
@@ -120,6 +125,7 @@ abstract class Event {
         return NOTIFICATION_HOUR;
     }
 
+    // getters and setters for gui
     public int getDay() {
         Calendar cal = Calendar.getInstance();
         cal.setTime(eventDate);
