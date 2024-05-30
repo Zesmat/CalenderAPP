@@ -16,8 +16,7 @@ A comprehensive calendar application designed to help users manage various types
 
 ## Key Concepts Demonstrated
 
-![CalenderApp GUI](https://github.com/SuzyAdel/CalenderAPP/assets/128175020/8e3a57a4-ab6e-4b4f-9021-cea2557ac30
-
+![UML](https://github.com/SuzyAdel/CalenderAPP/assets/128175020/c1e8b476-da5b-4ddc-b903-218b58977866)
 
 ### Inheritance
 - **Event** is an abstract class extended by **Meeting**, **Appointment**, and **Birthday**.
