@@ -15,8 +15,8 @@ A comprehensive calendar application designed to help users manage various types
   The application allows users to create, share, and receive notifications for events, making it a robust tool for personal and collaborative scheduling.
 
 ## Key Concepts Demonstrated
-![UML](https://github.com/SuzyAdel/CalenderAPP/assets/128175020/bf09a56d-c01e-47c3-9dcc-c453c5265fc6)
 
+![UML](https://github.com/SuzyAdel/CalenderAPP/assets/128175020/c1e8b476-da5b-4ddc-b903-218b58977866)
 
 ### Inheritance
 - **Event** is an abstract class extended by **Meeting**, **Appointment**, and **Birthday**.
@@ -159,3 +159,5 @@ The `CalendarMain` class demonstrates how to use the calendar application:
 - **Process Events**: Events are processed to demonstrate polymorphism by checking the event type and displaying specific information about the event.
 
 This example highlights the creation and management of events, the use of deep copying to ensure data integrity, and the implementation of polymorphic behavior to handle different event types dynamically.
+
+Creators: Suzy , Menna , Ziad 
